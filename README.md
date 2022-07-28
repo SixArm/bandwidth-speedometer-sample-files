@@ -1,4 +1,4 @@
-SixArm.com » Data » Bandwidth speedometer sample files
+# Bandwidth speedometer sample files
 
 The sample files contain random text:
 
